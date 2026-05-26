@@ -167,7 +167,6 @@ ai_tools: [Codex, Gemini]
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
 <img src="https://raw.githubusercontent.com/Minhdz26122003/Minhdz26122003/snake/github-snake-dark.svg" width="100%">
 
-<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -194,10 +193,6 @@ ai_tools: [Codex, Gemini]
 
 <!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/cheehwatang/github-readme-daily-quotes & https://github.com/shravan20/github-readme-quotes -->
 <p align="center">
-<img src="https://piyu-github-readme-quotes-trinibs-projects.vercel.app/api?theme=merko&border=true">
-<p align="center">
-<img src="https://github-readme-quotes-trinibs-projects.vercel.app/quote?theme=merko&layout=churchill&animation=grow_out_in&font=Architect">
-<p align="center">
 <img src="https://github-readme-daily-quotes-trinibs-projects.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker"><br><br>
 
 <!--💬🃏MEMESTITLE / 🌐WEBSITE: https://textanim.com/ -->
@@ -218,13 +213,6 @@ ai_tools: [Codex, Gemini]
 <!--💬FUNTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/jdd2GPv.gif" height="37" width="250">
-
-<!-- ♟️CHESS: Đã ẩn vì tính năng này cần workflow/assets riêng để chạy trên repo của bạn. -->
-
-<!-- CONNECTDOT: Đã ẩn vì tính năng này cần workflow/assets riêng để chạy trên repo của bạn. -->
-
-#
-<!-- ✏️WORDBOARD: Đã ẩn vì tính năng này cần workflow/assets riêng để chạy trên repo của bạn. -->
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
