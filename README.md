@@ -124,8 +124,8 @@ ai_tools: [Codex, Gemini]
 <!--<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a> -->
 
 <!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/yogeshwaran01/github-stats-terminal-style -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
+<!-- <p align="center">
+<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg"> -->
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
@@ -170,7 +170,7 @@ ai_tools: [Codex, Gemini]
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Minhdz26122003/Minhdz26122003/snake/github-snake-dark.svg" width="100%">
 
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <h4 align="right">
