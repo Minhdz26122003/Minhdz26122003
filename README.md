@@ -46,11 +46,10 @@ role: Mobile Developer
 location: Vietnam
 tech_stack:
   mobile: [Flutter, Dart, React Native]
-  frontend: [HTML, CSS]
   backend: [.NET, ASP.NET]
   database: [SQL Server, PostgreSQL]
   devops: [Docker]
-ai_tools: [Codex, Gemini]
+ai_tools: [Codex, Gemini,...]
 ```
 
 </div>
